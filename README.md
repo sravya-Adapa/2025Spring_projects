@@ -33,4 +33,4 @@ Requirements
 •	Pandas
 •	Matplotlib / Seaborn
 •	NetworkX
-<img width="468" height="635" alt="image" src="https://github.com/user-attachments/assets/cf0d5501-2b93-433d-ab66-05a1033a64bb" />
+<img width="468" height="635" alt="image" src="https://github.com/user-attachments/assets/2ee9d460-d1b3-4395-97af-f589f5189b5b" />
