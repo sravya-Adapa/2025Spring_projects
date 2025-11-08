@@ -63,7 +63,7 @@ A **NetworkX-based visualization** will illustrate the global supplier network, 
 
 To run the simulation, install the following dependencies:
 
-Python 3.8+
+- Python 3.8+
 - NumPy
 - Pandas
 - Matplotlib / Seaborn
