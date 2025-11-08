@@ -7,7 +7,6 @@
 ## Project Type
 **Type II – Original Monte Carlo Simulation**
 
----
 
 ## Project Description
 This project simulates how disruptions in the international trade of automotive parts and raw materials affect the **U.S. automotive industry’s ability to produce and export vehicles**.
@@ -26,7 +25,6 @@ Monte Carlo simulations introduce random disruptions to these supplier nodes acr
 
 A **NetworkX-based visualization** will illustrate the global supplier network, highlighting **high-risk connections** where disruptions have the largest simulated impact.
 
----
 
 ## Hypotheses
 
@@ -36,14 +34,12 @@ A **NetworkX-based visualization** will illustrate the global supplier network, 
 
 **H3:** When correlated disruptions occur among high-risk supplier countries in the **East Asian region** (e.g., China, Japan, South Korea, Taiwan), total simulated export losses will exceed independent-shock predictions by at least **20–25%**, indicating **systemic regional vulnerability**.
 
----
 
-## 📂 GitHub Repository
+## GitHub Repository
 [https://github.com/sravya-Adapa/2025Spring_projects](https://github.com/sravya-Adapa/2025Spring_projects)
 
----
 
-## 📊 Data Sources & References
+## Data Sources & References
 
 - **UN Comtrade Database** – Bilateral U.S. trade data for HS 8701–8708  
   [https://comtradeplus.un.org/](https://comtradeplus.un.org/)
@@ -62,7 +58,6 @@ A **NetworkX-based visualization** will illustrate the global supplier network, 
   *Transportation Research Part E: Logistics and Transportation Review.* Elsevier.  
   [https://www.sciencedirect.com/science/article/pii/S136655452500331X](https://www.sciencedirect.com/science/article/pii/S136655452500331X)
 
----
 
 ## Requirements
 
